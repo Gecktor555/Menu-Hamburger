@@ -32,6 +32,7 @@ body {
 	background-color: #262c37;
 	border-bottom: 1px solid #394252;
 }
+
 .header::before {
 	content: "";
 	position: absolute;
