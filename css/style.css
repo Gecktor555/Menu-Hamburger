@@ -74,6 +74,7 @@ body {
 	position: relative;
 	z-index: 5;
 }
+
 .menu__list {
 	display: flex;
 	align-items: center;
